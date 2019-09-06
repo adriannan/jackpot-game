@@ -1,9 +1,19 @@
 # Jackpot Game
-  **Jednoręki Bandyta**
+ **Jednoręki Bandyta**
+
 
 Gra została stworzona w ramach kursu "Programowanie w JS" (Samuraj Programowania).
 
 Projekt oparty na technikach programowania zorientowanego obiektowo, z wykorzystaniem klas i instancji.
+
+
+<hr>
+
+<br> 
+  
+ <p align="center"><img src="https://github.com/adriannan/jackpot-game/blob/master/sample.jpg?raw=true" display="block"
+     title="screenshot" width="400" height="auto"></p>
+<br>
 
 
 <hr>
